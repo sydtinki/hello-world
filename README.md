@@ -1,2 +1,2 @@
 # hello-world 
-Making changes to the file now!
+Making changes to the file
